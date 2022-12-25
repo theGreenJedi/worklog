@@ -1,4 +1,4 @@
-# worklog
+# Work logs
 Random notes re: tasks & mission accomplishments
 
 # Dec 22 
