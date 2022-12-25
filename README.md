@@ -3,7 +3,7 @@ Random notes re: tasks & mission accomplishments
 
 # Dec 22 
 
-Stand up 3x new full racks Cologix Parsippany NJ (200 Webro) (PARS)
+Stand up 3x new full racks Cologix Parsippany NJ (200 Webro - PARS)
 - logistics
 - configuring hardware
 - new rack configure
