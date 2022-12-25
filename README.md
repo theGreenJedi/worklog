@@ -17,7 +17,7 @@ CONNECTIVITY PoPs
 
 New network connectivity cabinet 275 Hartz Way Seacaucus NJ NY2
 
-Reconcile logistics cross connects 32 AoA / Seacaucus
+Reconcile logistics cross connects 32 AoA / Seacaucus - RH work 32 AoA
 
 Prepare future logistics 60 Hudson for late Jan 23
 
